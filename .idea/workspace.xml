@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2c0ee13-1656-4bad-abbe-aa5bd2a2e2f7" name="Changes" comment="" />
+    <list default="true" id="c2c0ee13-1656-4bad-abbe-aa5bd2a2e2f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityRide/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CityRide/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityRide/target/classes/static/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/CityRide/target/classes/static/assets/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityRide/target/classes/static/assets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/CityRide/target/classes/static/assets/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityRide/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CityRide/target/classes/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityRide/target/classes/static/vendor/maplibre/maplibre-gl.css" beforeDir="false" afterPath="$PROJECT_DIR$/CityRide/target/classes/static/vendor/maplibre/maplibre-gl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CityRide/target/classes/static/vendor/maplibre/maplibre-gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/CityRide/target/classes/static/vendor/maplibre/maplibre-gl.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +96,7 @@
     "Spring Boot.BusTrackingApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DEBJYOTI ROY/OneDrive/Documents/Desktop/github_project/RealTimeBusTrackingProject/CityRide/ScreenShorts",
     "node.js.detected.package.eslint": "true",
