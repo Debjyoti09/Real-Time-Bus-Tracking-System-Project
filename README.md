@@ -101,6 +101,8 @@ A simplified view of the application is shown below. Each part has a separate re
 
 The following diagram illustrates how the Admin, Driver, Passenger, Spring Boot Backend, MySQL Database, and WebSocket communicate with each other.
 
+![FlowOfSystem.png](CityRide/ScreenShorts/db.png)
+
 
 
 **In short:** the driver sends location data, the backend processes and saves it, and the passenger side refreshes the tracking information to update the map and route timeline.
