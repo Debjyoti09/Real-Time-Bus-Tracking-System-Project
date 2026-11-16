@@ -1,18 +1,17 @@
-# Maven
-target/
+# Large video
+CityRide/ScreenShorts/video.mp4
 
-# IntelliJ IDEA
+# IntelliJ files
 .idea/
 *.iml
 
-# Environment variables and secrets
+# Maven
+target/
+
+# Environment files
 .env
 .env.*
 !.env.example
 
 # Logs
 *.log
-
-# OS files
-.DS_Store
-Thumbs.db
